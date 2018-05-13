@@ -3,4 +3,4 @@ Fetches recent news articles through RSS feeds of news sources using JSOUP. User
 
 First made as a culminating project for the course "ICS 4U1".
 
-*NOTE* Scoring functionality no longer works. The algorithm depends on Wikipedia sites.
+NOTE: Scoring functionality no longer works. The algorithm depends on Wikipedia sites.
