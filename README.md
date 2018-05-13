@@ -1,2 +1,2 @@
 # RSS-Scraping
-Compiles recent articles through RSS feeds and JSOUP.
+Finds recent news articles through RSS feeds of news sources using JSOUP.
